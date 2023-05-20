@@ -1,0 +1,12 @@
+.about{
+    width:100%;
+    padding: 100px 0px;
+    background-color: #191919;
+}
+.about img{
+    height:auto;
+    width:430px;
+}
+.about-text{
+    width:550px;
+}
